@@ -1,15 +1,15 @@
 # portfolio_app
 
-A new Flutter project.
+A Portfolio Flutter project for web/desktop.
 
-## Getting Started
+## Free use
 
-This project is a starting point for a Flutter application.
+This project is free to download and reutilizable.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first time here:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Config: Config all urls and variables from one class](https://github.com/AomineD/FlutterPortfolio/blob/master/lib/config/config.dart)
+- [Assets: change icons, images or lottie animations here](https://github.com/AomineD/FlutterPortfolio/tree/master/assets)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
